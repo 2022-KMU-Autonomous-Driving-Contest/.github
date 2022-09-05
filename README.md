@@ -1,3 +1,0 @@
-# 2022 KMU Autonomous Driving Contest
- * 20팀 중 12등
- 분발하자....
