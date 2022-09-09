@@ -1,5 +1,6 @@
 # 2022 KMU Autonomous Driving Contest
 ![KakaoTalk_20220905_123213452](https://user-images.githubusercontent.com/86957779/188356066-86a6b1a5-ec2c-40ee-a062-2954adb32ee6.jpg)
+* 12th place/ 20 Teams   
 
 # 개선 점
 * 곡선구간의 차선인식 개선, 차선이 1개만 인식됬을 경우의 알고리즘 개선 방법
